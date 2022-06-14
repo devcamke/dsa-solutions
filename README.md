@@ -1,2 +1,2 @@
-# data-structures-and-algorithms
-This is the solution to Simple Sum Quiz on Hacker Rank
+# Data Structures and Algorithms
+These are the solutions to HackerRank quizzes using Ruby programming language.
